@@ -75,7 +75,7 @@ Paste the contents of a `SKILL.md` into a Project's system prompt or prepend it 
 |---|---:|---|
 | [Web Application](#web-application) | 16 | OWASP Top 10, business logic, advanced web vulnerability classes |
 | [Auth & Identity](#auth--identity) | 2 | JWT exploitation, OAuth/OIDC abuse |
-| [Active Directory](#active-directory) | 1 | On-prem AD attack methodology |
+| [Active Directory](#active-directory) | 2 | On-prem AD attack methodology |
 | [Wireless](#wireless) | 14 | 802.11, WPA2/3, EAP, WPS, evil-twin, BLE, Zigbee, Z-Wave, LoRa, sub-GHz |
 | [Cloud](#cloud) | 1 | AWS, Azure, GCP attack paths |
 | [Mobile](#mobile) | 1 | Android and iOS application testing |
@@ -140,6 +140,7 @@ Paste the contents of a `SKILL.md` into a Project's system prompt or prepend it 
 | Skill | Description |
 |---|---|
 | [`offensive-active-directory`](Skills/active-directory/offensive-active-directory/SKILL.md) | AD methodology — Kerberoast, ASREProast, ACL abuse, ADCS ESC1-15, delegation, hybrid AAD |
+| [`offensive-kerberoasting`](Skills/active-directory/offensive-kerberoasting/SKILL.md) | Kerberoasting & AS-REP Roasting — SPN discovery, Rubeus/impacket, targeted roast, RC4/AES OPSEC, offline cracking |
 
 ### Wireless
 
