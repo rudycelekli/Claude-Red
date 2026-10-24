@@ -73,7 +73,7 @@ Paste the contents of a `SKILL.md` into a Project's system prompt or prepend it 
 
 | Category | Skills | Focus |
 |---|---:|---|
-| [Web Application](#web-application) | 16 | OWASP Top 10, business logic, advanced web vulnerability classes |
+| [Web Application](#web-application) | 17 | OWASP Top 10, business logic, advanced web vulnerability classes |
 | [Auth & Identity](#auth--identity) | 2 | JWT exploitation, OAuth/OIDC abuse |
 | [Active Directory](#active-directory) | 1 | On-prem AD attack methodology |
 | [Wireless](#wireless) | 14 | 802.11, WPA2/3, EAP, WPS, evil-twin, BLE, Zigbee, Z-Wave, LoRa, sub-GHz |
@@ -123,6 +123,7 @@ Paste the contents of a `SKILL.md` into a Project's system prompt or prepend it 
 | [`offensive-graphql`](Skills/web/offensive-graphql/SKILL.md) | GraphQL — introspection abuse, batching attacks, alias-based IDOR |
 | [`offensive-waf-bypass`](Skills/web/offensive-waf-bypass/SKILL.md) | WAF bypass — encoding tricks, chunked transfer, case mutation |
 | [`offensive-business-logic`](Skills/web/offensive-business-logic/SKILL.md) | Business logic — workflow bypass, pricing abuse, multi-step chains |
+| [`offensive-csrf`](Skills/web/offensive-csrf/SKILL.md) | Cross-site request forgery — token flaws, SameSite bypass, JSON/CORS CSRF, clickjacking |
 
 ### Auth & Identity
 
